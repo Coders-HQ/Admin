@@ -24,10 +24,16 @@ The CodersHQ Interface project aims to build a Web-User Interface to work with t
 <p> The Admin Page is a web interface intended to be connected with the backend of CodersHQ's platform, the functionality that the admin page's interface provides should be, but not limited to:
   <ol>
     <li>Logging in</li>
-    <li>See developers on the platform</li>
-    <li>Create Events</li>
-    <li>Modify Events</li>
-    <li>Delete Events</li>
+    <li>Look at the users</li>
+    <li>Filter Users</li>
+    <li>Add/Remove items</li>
+    <li>Overall dashboard of activity</li>
+    <li>Edit Events</li>
+    <ol>
+        <li>Create Events</li>
+        <li>Modify Events</li>
+        <li>Delete Events</li>
+    </ol>
   </ol>
 To inspire, below will be attached a design which can be used only for inspirational purposes. Nothing in the design depicts the final product and everything has to be considered from scratch. We expect you to release all the creativity inside you in coming up with a beautiful and modern interface for the Admin Page. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration. </p>
 
