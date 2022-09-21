@@ -26,14 +26,14 @@ The CodersHQ Interface project aims to build a Web-User Interface to work with t
     <li>Logging in</li>
     <li>Look at the users</li>
     <li>Filter Users</li>
-    <li>Add/Remove items</li>
-    <li>Overall dashboard of activity</li>
     <li>Edit Events</li>
     <ol>
         <li>Create Events</li>
         <li>Modify Events</li>
         <li>Delete Events</li>
     </ol>
+    <li>Add/Remove items</li>
+    <li>Overall dashboard of activity</li>
   </ol>
 To inspire, below will be attached a design which can be used only for inspirational purposes. Nothing in the design depicts the final product and everything has to be considered from scratch. We expect you to release all the creativity inside you in coming up with a beautiful and modern interface for the Admin Page. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration. </p>
 
