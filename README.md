@@ -1,5 +1,8 @@
 <p align="center">
- <img width="500" src="https://www.arsal.xyz/CHQAssets/CHQLogoBlackBG.png">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.arsal.xyz/CHQAssets/CHQLogo.png">
+        <img alt="White CHQ logo in dark mode and dark CHQ logo in light mode" src="https://www.arsal.xyz/CHQAssets/CHQLogoYellow.png" width=500px>
+    </picture>
  <h1 align="center">CodersHQ Interface - Admin Page</h1>
 </p>
 
