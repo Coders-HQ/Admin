@@ -24,7 +24,7 @@
 The CodersHQ Interface project aims to build a Web-User Interface to work with the backend of the project. This will be used to perform various tasks.</p>
 
 <h3 id="adminpage">:man_technologist: Admin Page</h3>
-<p>The Admin Page is a web interface that is designed to manage the entire CodersHQ Ecosystem. This includes user management, event management and CodersHQ Bounties. Here are some of the functionalities that the Admin Page will offer:
+<p>The Admin Page is a web interface that is designed to manage the entire CodersHQ Ecosystem. For now, this includes user management, event management and CodersHQ Bounties. Here are some of the functionalities that the Admin Page will offer:
   <ol>
     <li>Logging in</li>
     <li>Look at the users</li>
